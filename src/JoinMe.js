@@ -27,7 +27,7 @@ export default function JoinMe() {
     }
 
     return (
-        <div className="joinme">
+        <div className="joinme" >
             <h1>Contacat Me</h1>
             
             <input type="text" value={name} placeholder="enter your name here"
